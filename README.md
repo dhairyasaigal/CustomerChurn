@@ -75,7 +75,7 @@ pip install -r requirements.txt
 
 
 ---
-🧪 Model Performance
+🧪 **Model Performance**
 The notebook includes:
 
 Accuracy, Precision, Recall, F1-score
@@ -87,7 +87,7 @@ Feature Importance chart
 ✅ Model tuning and evaluation using cross-validation
 
 ---
-💡 Future Ideas
+💡 **Future Ideas**
 Deploy model using Streamlit
 
 Add a real-time prediction form
