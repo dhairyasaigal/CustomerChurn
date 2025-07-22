@@ -66,16 +66,18 @@ The dataset contains **7,043 customer records** and is ideal for binary classifi
 
 2. **Install requirements**
 (if not using Colab)
+
 pip install -r requirements.txt
 
 
-3. **Run the notebook**
+4. **Run the notebook**
   .Open churn_model.ipynb in Jupyter or Google Colab
   .Run all cells and follow instructions
 
 
 ---
-🧪 **Model Performance**
+
+##🧪 **Model Performance**
 The notebook includes:
 
 Accuracy, Precision, Recall, F1-score
@@ -87,7 +89,8 @@ Feature Importance chart
 ✅ Model tuning and evaluation using cross-validation
 
 ---
-💡 **Future Ideas**
+
+##💡 **Future Ideas**
 Deploy model using Streamlit
 
 Add a real-time prediction form
